@@ -1,0 +1,24 @@
+name: Time2Craft
+main: be.sachal2406.Time2Craft.Time2Craft
+author: sachal2406
+version: 1.0
+commands:
+ bienvenue:
+   usage: /bienvenue
+ site:
+   usage: /site
+ vote:
+   usage: /vote
+ forum:
+   usage: /forum
+ admins:
+   usage: /admins
+ mumble:
+   usage: /mumble
+ ts:
+   usage: /ts
+ regles:
+   usage: /regles
+    
+ 
+      
